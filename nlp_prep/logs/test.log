@@ -1,0 +1,1293 @@
+2020-07-09 12:46:46,858 - example_logger - INFO - reference info 6
+2020-07-09 12:48:33,265 - example_logger - INFO - reference info 6
+2020-07-09 12:48:33,265 - example_logger - INFO - key value [1]
+2020-07-09 13:51:33,259 - example_logger - INFO - reference info 6
+2020-07-09 13:51:33,259 - example_logger - INFO - key value [1]
+2020-07-09 13:56:06,083 - example_logger - INFO - reference info 6
+2020-07-09 13:56:06,087 - example_logger - INFO - key value [1]
+2020-07-09 16:15:45,488 - example_logger - INFO - reference info 6
+2020-07-09 16:15:45,488 - example_logger - INFO - key value [1]
+2020-07-09 16:44:50,017 - example_logger - INFO - reference info 6
+2020-07-09 16:44:50,019 - example_logger - INFO - key value [1]
+2020-07-09 16:53:32,254 - example_logger - INFO - reference info 5
+2020-07-09 16:54:53,093 - example_logger - INFO - reference info 5
+2020-07-09 17:02:51,150 - example_logger - INFO - reference info 5
+2020-07-09 17:04:34,269 - example_logger - INFO - reference info 5
+2020-07-09 17:11:08,305 - example_logger - INFO - reference info 5
+2020-07-09 17:14:05,534 - example_logger - INFO - reference info 6
+2020-07-09 17:14:05,535 - example_logger - INFO - key value [1]
+2020-07-09 17:17:01,988 - example_logger - INFO - reference info 6
+2020-07-09 17:17:01,988 - example_logger - INFO - key value [1]
+2020-07-09 17:19:54,404 - example_logger - INFO - reference info 6
+2020-07-09 17:19:54,404 - example_logger - INFO - reference info 6
+2020-07-09 17:19:54,408 - example_logger - INFO - key value [1]
+2020-07-09 17:19:54,408 - example_logger - INFO - key value [1]
+2020-07-09 17:21:26,180 - example_logger - INFO - reference info 9
+2020-07-09 17:21:26,180 - example_logger - INFO - reference info 9
+2020-07-09 17:21:26,182 - example_logger - INFO - key value [2]
+2020-07-09 17:21:26,182 - example_logger - INFO - key value [2]
+2020-07-09 17:22:23,178 - example_logger - INFO - reference info 9
+2020-07-09 17:22:23,178 - example_logger - INFO - reference info 9
+2020-07-09 17:22:23,181 - example_logger - INFO - key value [2]
+2020-07-09 17:22:23,181 - example_logger - INFO - key value [2]
+2020-07-09 17:22:36,956 - example_logger - INFO - reference info 9
+2020-07-09 17:22:36,956 - example_logger - INFO - reference info 9
+2020-07-09 17:22:36,958 - example_logger - INFO - key value [2]
+2020-07-09 17:22:36,958 - example_logger - INFO - key value [2]
+2020-07-09 17:22:45,622 - example_logger - INFO - reference info 9
+2020-07-09 17:22:45,622 - example_logger - INFO - key value [2]
+2020-07-09 17:24:57,104 - example_logger - INFO - reference info 9
+2020-07-09 17:24:57,105 - example_logger - INFO - key value [2]
+2020-07-09 17:37:56,819 - example_logger - INFO - reference info 6
+2020-07-09 17:37:56,820 - example_logger - INFO - key value [1]
+2020-07-09 21:56:29,382 - example_logger - INFO - reference info 6
+2020-07-09 21:56:29,383 - example_logger - INFO - key value [1]
+2020-07-09 21:59:13,350 - example_logger - INFO - reference info 14
+2020-07-09 21:59:13,350 - example_logger - INFO - key value [3]
+2020-07-09 21:59:48,604 - example_logger - INFO - reference info 6
+2020-07-09 21:59:48,604 - example_logger - INFO - key value [1]
+2020-07-10 08:50:12,801 - example_logger - INFO - reference info 5
+2020-07-10 08:50:12,802 - example_logger - INFO - key value [1]
+2020-07-10 08:52:51,324 - example_logger - INFO - reference info 5
+2020-07-10 08:52:51,324 - example_logger - INFO - key value [1]
+2020-07-10 08:53:16,224 - example_logger - INFO - reference info 5
+2020-07-10 08:53:16,224 - example_logger - INFO - key value [1]
+2020-07-10 08:55:22,329 - example_logger - INFO - reference info 5
+2020-07-10 08:55:22,330 - example_logger - INFO - key value [1]
+2020-07-10 09:05:25,234 - example_logger - INFO - reference info 5
+2020-07-10 09:05:25,234 - example_logger - INFO - reference info 5
+2020-07-10 09:05:25,234 - example_logger - INFO - key value [1]
+2020-07-10 09:05:25,234 - example_logger - INFO - key value [1]
+2020-07-10 09:05:37,759 - example_logger - INFO - reference info 5
+2020-07-10 09:05:37,759 - example_logger - INFO - reference info 5
+2020-07-10 09:05:37,759 - example_logger - INFO - reference info 5
+2020-07-10 09:05:37,759 - example_logger - INFO - key value [1]
+2020-07-10 09:05:37,759 - example_logger - INFO - key value [1]
+2020-07-10 09:05:37,759 - example_logger - INFO - key value [1]
+2020-07-10 09:07:16,247 - example_logger - INFO - reference info 5
+2020-07-10 09:07:16,247 - example_logger - INFO - reference info 5
+2020-07-10 09:07:16,247 - example_logger - INFO - reference info 5
+2020-07-10 09:07:16,247 - example_logger - INFO - reference info 5
+2020-07-10 09:07:16,247 - example_logger - INFO - key value [1]
+2020-07-10 09:07:16,247 - example_logger - INFO - key value [1]
+2020-07-10 09:07:16,247 - example_logger - INFO - key value [1]
+2020-07-10 09:07:16,247 - example_logger - INFO - key value [1]
+2020-07-10 09:07:29,749 - example_logger - INFO - reference info 5
+2020-07-10 09:07:29,749 - example_logger - INFO - reference info 5
+2020-07-10 09:07:29,749 - example_logger - INFO - key value [1]
+2020-07-10 09:07:29,749 - example_logger - INFO - key value [1]
+2020-07-10 09:07:49,272 - example_logger - INFO - reference info 5
+2020-07-10 09:07:49,272 - example_logger - INFO - key value [1]
+2020-07-10 12:03:53,223 - example_logger - INFO - reference info 5
+2020-07-10 12:03:53,238 - example_logger - INFO - reference info 5
+2020-07-10 12:03:53,223 - example_logger - INFO - reference info 5
+2020-07-10 12:03:53,243 - example_logger - INFO - key value [1]
+2020-07-10 12:03:53,243 - example_logger - INFO - key value [1]
+2020-07-10 12:03:53,243 - example_logger - INFO - key value [1]
+2020-07-10 12:04:04,761 - example_logger - INFO - reference info 5
+2020-07-10 12:04:04,761 - example_logger - INFO - reference info 5
+2020-07-10 12:04:04,761 - example_logger - INFO - reference info 5
+2020-07-10 12:04:04,761 - example_logger - INFO - key value [1]
+2020-07-10 12:04:04,761 - example_logger - INFO - key value [1]
+2020-07-10 12:04:04,761 - example_logger - INFO - key value [1]
+2020-07-10 15:03:51,410 - example_logger - INFO - reference info 6
+2020-07-10 15:03:51,410 - example_logger - INFO - key value [1]
+2020-07-10 15:04:12,092 - example_logger - INFO - reference info 6
+2020-07-10 15:04:12,093 - example_logger - INFO - key value [1]
+2020-07-10 15:07:53,548 - example_logger - INFO - reference info 6
+2020-07-10 15:07:53,548 - example_logger - INFO - reference info 6
+2020-07-10 15:07:53,549 - example_logger - INFO - key value [1]
+2020-07-10 15:07:53,549 - example_logger - INFO - key value [1]
+2020-07-10 15:16:22,785 - example_logger - INFO - reference info 6
+2020-07-10 15:16:22,785 - example_logger - INFO - reference info 6
+2020-07-10 15:16:22,786 - example_logger - INFO - key value [1]
+2020-07-10 15:16:22,786 - example_logger - INFO - key value [1]
+2020-07-10 15:35:40,543 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "/home/chandrakanth/context/coreference_resolution/src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "main.py", line 8, in final_test
+    final_output['pos']= pos_tagger(text)
+  File "/home/chandrakanth/context/coreference_resolution/src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "/home/chandrakanth/context/coreference_resolution/src/helper_functions.py", line 24, in pos_tagger
+    with open('./data/pos.json', 'w', encoding='utf-8-sig') as filehandle:
+FileNotFoundError: [Errno 2] No such file or directory: './data/pos.json'
+2020-07-10 15:35:40,543 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "/home/chandrakanth/context/coreference_resolution/src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "main.py", line 8, in final_test
+    final_output['pos']= pos_tagger(text)
+  File "/home/chandrakanth/context/coreference_resolution/src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "/home/chandrakanth/context/coreference_resolution/src/helper_functions.py", line 24, in pos_tagger
+    with open('./data/pos.json', 'w', encoding='utf-8-sig') as filehandle:
+FileNotFoundError: [Errno 2] No such file or directory: './data/pos.json'
+2020-07-10 15:36:44,268 - example_logger - INFO - reference info 6
+2020-07-10 15:36:44,268 - example_logger - INFO - reference info 6
+2020-07-10 15:36:44,268 - example_logger - INFO - key value [1]
+2020-07-10 15:36:44,268 - example_logger - INFO - key value [1]
+2020-07-10 15:37:03,273 - example_logger - INFO - reference info 6
+2020-07-10 15:37:03,273 - example_logger - INFO - reference info 6
+2020-07-10 15:37:03,273 - example_logger - INFO - key value [1]
+2020-07-10 15:37:03,273 - example_logger - INFO - key value [1]
+2020-07-10 15:41:14,570 - example_logger - INFO - reference info 6
+2020-07-10 15:41:14,570 - example_logger - INFO - reference info 6
+2020-07-10 15:41:14,570 - example_logger - INFO - key value [1]
+2020-07-10 15:41:14,570 - example_logger - INFO - key value [1]
+2020-07-10 15:41:50,058 - example_logger - INFO - reference info 6
+2020-07-10 15:41:50,058 - example_logger - INFO - reference info 6
+2020-07-10 15:41:50,058 - example_logger - INFO - key value [1]
+2020-07-10 15:41:50,058 - example_logger - INFO - key value [1]
+2020-07-10 15:58:17,885 - example_logger - INFO - reference info 6
+2020-07-10 15:58:17,885 - example_logger - INFO - reference info 6
+2020-07-10 15:58:17,885 - example_logger - INFO - key value [1]
+2020-07-10 15:58:17,885 - example_logger - INFO - key value [1]
+2020-07-10 16:37:14,148 - example_logger - INFO - reference info 6
+2020-07-10 16:37:14,148 - example_logger - INFO - reference info 6
+2020-07-10 16:37:14,148 - example_logger - INFO - key value [1]
+2020-07-10 16:37:14,148 - example_logger - INFO - key value [1]
+2020-07-10 16:43:25,764 - example_logger - INFO - reference info 5
+2020-07-10 16:43:25,764 - example_logger - INFO - reference info 5
+2020-07-10 16:43:25,764 - example_logger - INFO - key value [1]
+2020-07-10 16:43:25,764 - example_logger - INFO - key value [1]
+2020-07-10 16:45:09,357 - example_logger - INFO - reference info 5
+2020-07-10 16:45:09,357 - example_logger - INFO - reference info 5
+2020-07-10 16:45:09,357 - example_logger - INFO - key value [1]
+2020-07-10 16:45:09,357 - example_logger - INFO - key value [1]
+2020-07-10 16:47:25,485 - example_logger - INFO - reference info 5
+2020-07-10 16:47:25,485 - example_logger - INFO - reference info 5
+2020-07-10 16:47:25,485 - example_logger - INFO - key value [1]
+2020-07-10 16:47:25,485 - example_logger - INFO - key value [1]
+2020-07-10 16:48:54,989 - example_logger - INFO - reference info 5
+2020-07-10 16:48:54,989 - example_logger - INFO - key value [1]
+2020-07-10 16:49:00,090 - example_logger - INFO - reference info 5
+2020-07-10 16:49:00,090 - example_logger - INFO - reference info 5
+2020-07-10 16:49:00,091 - example_logger - INFO - key value [1]
+2020-07-10 16:49:00,091 - example_logger - INFO - key value [1]
+2020-07-10 16:51:30,436 - example_logger - INFO - reference info 5
+2020-07-10 16:51:30,436 - example_logger - INFO - reference info 5
+2020-07-10 16:51:30,437 - example_logger - INFO - key value [1]
+2020-07-10 16:51:30,437 - example_logger - INFO - key value [1]
+2020-07-10 17:48:55,281 - example_logger - INFO - reference info 5
+2020-07-10 17:48:55,282 - example_logger - INFO - key value [1]
+2020-07-10 17:51:34,430 - example_logger - INFO - reference info 5
+2020-07-10 17:51:34,430 - example_logger - INFO - reference info 5
+2020-07-10 17:51:34,431 - example_logger - INFO - key value [1]
+2020-07-10 17:51:34,431 - example_logger - INFO - key value [1]
+2020-07-10 17:53:19,397 - example_logger - INFO - reference info 5
+2020-07-10 17:53:19,397 - example_logger - INFO - reference info 5
+2020-07-10 17:53:19,398 - example_logger - INFO - key value [1]
+2020-07-10 17:53:19,398 - example_logger - INFO - key value [1]
+2020-07-10 17:53:26,530 - example_logger - INFO - reference info 5
+2020-07-10 17:53:26,530 - example_logger - INFO - key value [1]
+2020-07-10 12:37:06,204 - example_logger - INFO - reference info 5
+2020-07-10 12:37:06,204 - example_logger - INFO - reference info 5
+2020-07-10 12:37:06,205 - example_logger - INFO - key value [1]
+2020-07-10 12:37:06,205 - example_logger - INFO - key value [1]
+2020-07-10 12:37:37,863 - example_logger - INFO - reference info 5
+2020-07-10 12:37:37,863 - example_logger - INFO - reference info 5
+2020-07-10 12:37:37,863 - example_logger - INFO - key value [1]
+2020-07-10 12:37:37,863 - example_logger - INFO - key value [1]
+2020-07-10 12:38:10,960 - example_logger - INFO - reference info 5
+2020-07-10 12:38:10,960 - example_logger - INFO - reference info 5
+2020-07-10 12:38:10,961 - example_logger - INFO - key value [1]
+2020-07-10 12:38:10,961 - example_logger - INFO - key value [1]
+2020-07-10 12:38:20,924 - example_logger - INFO - reference info 5
+2020-07-10 12:38:20,924 - example_logger - INFO - reference info 5
+2020-07-10 12:38:20,925 - example_logger - INFO - key value [1]
+2020-07-10 12:38:20,925 - example_logger - INFO - key value [1]
+2020-07-10 12:38:39,859 - example_logger - INFO - reference info 5
+2020-07-10 12:38:39,859 - example_logger - INFO - reference info 5
+2020-07-10 12:38:39,859 - example_logger - INFO - key value [1]
+2020-07-10 12:38:39,859 - example_logger - INFO - key value [1]
+2020-07-10 12:42:43,452 - example_logger - INFO - reference info 5
+2020-07-10 12:42:43,452 - example_logger - INFO - reference info 5
+2020-07-10 12:42:43,453 - example_logger - INFO - key value [1]
+2020-07-10 12:42:43,453 - example_logger - INFO - key value [1]
+2020-07-10 12:46:40,259 - example_logger - INFO - reference info 5
+2020-07-10 12:46:40,259 - example_logger - INFO - reference info 5
+2020-07-10 12:46:40,260 - example_logger - INFO - key value [1]
+2020-07-10 12:46:40,260 - example_logger - INFO - key value [1]
+2020-07-13 05:46:42,531 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/connection.py", line 157, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/util/connection.py", line 84, in create_connection
+    raise err
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/util/connection.py", line 74, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/connectionpool.py", line 387, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/http/client.py", line 1254, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/http/client.py", line 1300, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/http/client.py", line 1249, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/http/client.py", line 1036, in _send_output
+    self.send(msg)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/http/client.py", line 974, in send
+    self.connect()
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/connection.py", line 184, in connect
+    conn = self._new_conn()
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/connection.py", line 169, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7ff7140580f0>: Failed to establish a new connection: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/util/retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='192.168.0.248', port=6201): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff7140580f0>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/pycorenlp/corenlp.py", line 19, in annotate
+    requests.get(self.server_url)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/requests/api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='192.168.0.248', port=6201): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff7140580f0>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 8, in final_test
+    final_output['pos']= pos_tagger(text)
+  File "../src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "../src/helper_functions.py", line 22, in pos_tagger
+    result1 = NLP.annotate(text_input, properties={'annotators': 'pos', 'outputFormat': 'json', 'timeout': 50000})
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/pycorenlp/corenlp.py", line 21, in annotate
+    raise Exception('Check whether you have started the CoreNLP server e.g.\n'
+Exception: Check whether you have started the CoreNLP server e.g.
+$ cd stanford-corenlp-full-2015-12-09/ 
+$ java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer
+2020-07-13 05:46:42,531 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/connection.py", line 157, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/util/connection.py", line 84, in create_connection
+    raise err
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/util/connection.py", line 74, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/connectionpool.py", line 387, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/http/client.py", line 1254, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/http/client.py", line 1300, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/http/client.py", line 1249, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/http/client.py", line 1036, in _send_output
+    self.send(msg)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/http/client.py", line 974, in send
+    self.connect()
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/connection.py", line 184, in connect
+    conn = self._new_conn()
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/connection.py", line 169, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7ff7140580f0>: Failed to establish a new connection: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/util/retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='192.168.0.248', port=6201): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff7140580f0>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/pycorenlp/corenlp.py", line 19, in annotate
+    requests.get(self.server_url)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/requests/api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='192.168.0.248', port=6201): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff7140580f0>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 8, in final_test
+    final_output['pos']= pos_tagger(text)
+  File "../src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "../src/helper_functions.py", line 22, in pos_tagger
+    result1 = NLP.annotate(text_input, properties={'annotators': 'pos', 'outputFormat': 'json', 'timeout': 50000})
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/pycorenlp/corenlp.py", line 21, in annotate
+    raise Exception('Check whether you have started the CoreNLP server e.g.\n'
+Exception: Check whether you have started the CoreNLP server e.g.
+$ cd stanford-corenlp-full-2015-12-09/ 
+$ java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer
+2020-07-13 11:23:05,507 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/connection.py", line 157, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/util/connection.py", line 84, in create_connection
+    raise err
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/util/connection.py", line 74, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/connectionpool.py", line 387, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/http/client.py", line 1254, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/http/client.py", line 1300, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/http/client.py", line 1249, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/http/client.py", line 1036, in _send_output
+    self.send(msg)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/http/client.py", line 974, in send
+    self.connect()
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/connection.py", line 184, in connect
+    conn = self._new_conn()
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/connection.py", line 169, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f97422e25f8>: Failed to establish a new connection: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/util/retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='192.168.0.248', port=6201): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f97422e25f8>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/pycorenlp/corenlp.py", line 19, in annotate
+    requests.get(self.server_url)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/requests/api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='192.168.0.248', port=6201): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f97422e25f8>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/chandrakanth/context/coreference_resolution/src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "main.py", line 8, in final_test
+    final_output['pos']= pos_tagger(text)
+  File "/home/chandrakanth/context/coreference_resolution/src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "/home/chandrakanth/context/coreference_resolution/src/helper_functions.py", line 22, in pos_tagger
+    result1 = NLP.annotate(text_input, properties={'annotators': 'pos', 'outputFormat': 'json', 'timeout': 50000})
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/pycorenlp/corenlp.py", line 21, in annotate
+    raise Exception('Check whether you have started the CoreNLP server e.g.\n'
+Exception: Check whether you have started the CoreNLP server e.g.
+$ cd stanford-corenlp-full-2015-12-09/ 
+$ java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer
+2020-07-13 11:23:05,507 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/connection.py", line 157, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/util/connection.py", line 84, in create_connection
+    raise err
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/util/connection.py", line 74, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/connectionpool.py", line 672, in urlopen
+    chunked=chunked,
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/connectionpool.py", line 387, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/http/client.py", line 1254, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/http/client.py", line 1300, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/http/client.py", line 1249, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/http/client.py", line 1036, in _send_output
+    self.send(msg)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/http/client.py", line 974, in send
+    self.connect()
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/connection.py", line 184, in connect
+    conn = self._new_conn()
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/connection.py", line 169, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f97422e25f8>: Failed to establish a new connection: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/connectionpool.py", line 720, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/urllib3/util/retry.py", line 436, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='192.168.0.248', port=6201): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f97422e25f8>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/pycorenlp/corenlp.py", line 19, in annotate
+    requests.get(self.server_url)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/requests/api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='192.168.0.248', port=6201): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f97422e25f8>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/chandrakanth/context/coreference_resolution/src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "main.py", line 8, in final_test
+    final_output['pos']= pos_tagger(text)
+  File "/home/chandrakanth/context/coreference_resolution/src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "/home/chandrakanth/context/coreference_resolution/src/helper_functions.py", line 22, in pos_tagger
+    result1 = NLP.annotate(text_input, properties={'annotators': 'pos', 'outputFormat': 'json', 'timeout': 50000})
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/site-packages/pycorenlp/corenlp.py", line 21, in annotate
+    raise Exception('Check whether you have started the CoreNLP server e.g.\n'
+Exception: Check whether you have started the CoreNLP server e.g.
+$ cd stanford-corenlp-full-2015-12-09/ 
+$ java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer
+2020-07-13 11:25:06,306 - example_logger - INFO - reference info 5
+2020-07-13 11:25:06,306 - example_logger - INFO - reference info 5
+2020-07-13 11:25:06,329 - example_logger - INFO - key value [1]
+2020-07-13 11:25:06,329 - example_logger - INFO - key value [1]
+2020-07-13 05:55:41,992 - example_logger - INFO - reference info 5
+2020-07-13 05:55:41,992 - example_logger - INFO - reference info 5
+2020-07-13 05:55:41,993 - example_logger - INFO - key value [1]
+2020-07-13 05:55:41,993 - example_logger - INFO - key value [1]
+2020-07-13 05:55:52,504 - example_logger - INFO - reference info 5
+2020-07-13 05:55:52,504 - example_logger - INFO - reference info 5
+2020-07-13 05:55:52,504 - example_logger - INFO - reference info 5
+2020-07-13 05:55:52,505 - example_logger - INFO - key value [1]
+2020-07-13 05:55:52,505 - example_logger - INFO - key value [1]
+2020-07-13 05:55:52,505 - example_logger - INFO - key value [1]
+2020-07-13 05:57:12,093 - example_logger - INFO - reference info 5
+2020-07-13 05:57:12,093 - example_logger - INFO - reference info 5
+2020-07-13 05:57:12,093 - example_logger - INFO - reference info 5
+2020-07-13 05:57:12,093 - example_logger - INFO - reference info 5
+2020-07-13 05:57:12,093 - example_logger - INFO - key value [1]
+2020-07-13 05:57:12,093 - example_logger - INFO - key value [1]
+2020-07-13 05:57:12,093 - example_logger - INFO - key value [1]
+2020-07-13 05:57:12,093 - example_logger - INFO - key value [1]
+2020-07-13 05:59:44,912 - example_logger - INFO - reference info 5
+2020-07-13 05:59:44,912 - example_logger - INFO - reference info 5
+2020-07-13 05:59:44,912 - example_logger - INFO - reference info 5
+2020-07-13 05:59:44,912 - example_logger - INFO - reference info 5
+2020-07-13 05:59:44,912 - example_logger - INFO - reference info 5
+2020-07-13 05:59:44,912 - example_logger - INFO - key value [1]
+2020-07-13 05:59:44,912 - example_logger - INFO - key value [1]
+2020-07-13 05:59:44,912 - example_logger - INFO - key value [1]
+2020-07-13 05:59:44,912 - example_logger - INFO - key value [1]
+2020-07-13 05:59:44,912 - example_logger - INFO - key value [1]
+2020-07-13 06:02:18,372 - example_logger - INFO - reference info 5
+2020-07-13 06:02:18,372 - example_logger - INFO - reference info 5
+2020-07-13 06:02:18,373 - example_logger - INFO - key value [1]
+2020-07-13 06:02:18,373 - example_logger - INFO - key value [1]
+2020-07-13 06:04:27,070 - example_logger - INFO - reference info 5
+2020-07-13 06:04:27,070 - example_logger - INFO - reference info 5
+2020-07-13 06:04:27,071 - example_logger - INFO - key value [1]
+2020-07-13 06:04:27,071 - example_logger - INFO - key value [1]
+2020-07-13 06:07:50,405 - example_logger - INFO - reference info 5
+2020-07-13 06:07:50,405 - example_logger - INFO - reference info 5
+2020-07-13 06:07:50,405 - example_logger - INFO - reference info 5
+2020-07-13 06:07:50,405 - example_logger - INFO - key value [1]
+2020-07-13 06:07:50,405 - example_logger - INFO - key value [1]
+2020-07-13 06:07:50,405 - example_logger - INFO - key value [1]
+2020-07-13 06:20:44,085 - example_logger - INFO - reference info 5
+2020-07-13 06:20:44,085 - example_logger - INFO - reference info 5
+2020-07-13 06:20:44,085 - example_logger - INFO - reference info 5
+2020-07-13 06:20:44,085 - example_logger - INFO - reference info 5
+2020-07-13 06:20:44,086 - example_logger - INFO - key value [1]
+2020-07-13 06:20:44,086 - example_logger - INFO - key value [1]
+2020-07-13 06:20:44,086 - example_logger - INFO - key value [1]
+2020-07-13 06:20:44,086 - example_logger - INFO - key value [1]
+2020-07-13 07:04:11,693 - example_logger - INFO - reference info 5
+2020-07-13 07:04:11,693 - example_logger - INFO - reference info 5
+2020-07-13 07:04:11,693 - example_logger - INFO - reference info 5
+2020-07-13 07:04:11,693 - example_logger - INFO - reference info 5
+2020-07-13 07:04:11,693 - example_logger - INFO - reference info 5
+2020-07-13 07:04:11,694 - example_logger - INFO - key value [1]
+2020-07-13 07:04:11,694 - example_logger - INFO - key value [1]
+2020-07-13 07:04:11,694 - example_logger - INFO - key value [1]
+2020-07-13 07:04:11,694 - example_logger - INFO - key value [1]
+2020-07-13 07:04:11,694 - example_logger - INFO - key value [1]
+2020-07-13 12:38:05,990 - example_logger - INFO - reference info 5
+2020-07-13 12:38:05,991 - example_logger - INFO - key value [1]
+2020-07-13 12:39:32,529 - example_logger - INFO - reference info 5
+2020-07-13 12:39:32,529 - example_logger - INFO - key value [1]
+2020-07-13 07:12:34,814 - example_logger - INFO - reference info 5
+2020-07-13 07:12:34,814 - example_logger - INFO - reference info 5
+2020-07-13 07:12:34,815 - example_logger - INFO - key value [1]
+2020-07-13 07:12:34,815 - example_logger - INFO - key value [1]
+2020-07-13 08:52:26,531 - example_logger - INFO - reference info 5
+2020-07-13 08:52:26,531 - example_logger - INFO - reference info 5
+2020-07-13 08:52:26,532 - example_logger - INFO - key value [1]
+2020-07-13 08:52:26,532 - example_logger - INFO - key value [1]
+2020-07-13 10:22:33,980 - example_logger - INFO - reference info 5
+2020-07-13 10:22:33,980 - example_logger - INFO - reference info 5
+2020-07-13 10:22:33,981 - example_logger - INFO - key value [1]
+2020-07-13 10:22:33,981 - example_logger - INFO - key value [1]
+2020-07-13 15:52:37,428 - example_logger - INFO - reference info 5
+2020-07-13 15:52:37,428 - example_logger - INFO - reference info 5
+2020-07-13 15:52:37,428 - example_logger - INFO - key value [1]
+2020-07-13 15:52:37,428 - example_logger - INFO - key value [1]
+2020-07-13 10:23:43,856 - example_logger - INFO - reference info 5
+2020-07-13 10:23:43,856 - example_logger - INFO - reference info 5
+2020-07-13 10:23:43,856 - example_logger - INFO - reference info 5
+2020-07-13 10:23:43,857 - example_logger - INFO - key value [1]
+2020-07-13 10:23:43,857 - example_logger - INFO - key value [1]
+2020-07-13 10:23:43,857 - example_logger - INFO - key value [1]
+2020-07-13 10:28:48,560 - example_logger - INFO - reference info 5
+2020-07-13 10:28:48,560 - example_logger - INFO - reference info 5
+2020-07-13 10:28:48,561 - example_logger - INFO - key value [1]
+2020-07-13 10:28:48,561 - example_logger - INFO - key value [1]
+2020-07-13 10:29:14,537 - example_logger - INFO - reference info 5
+2020-07-13 10:29:14,537 - example_logger - INFO - reference info 5
+2020-07-13 10:29:14,537 - example_logger - INFO - reference info 5
+2020-07-13 10:29:14,538 - example_logger - INFO - key value [1]
+2020-07-13 10:29:14,538 - example_logger - INFO - key value [1]
+2020-07-13 10:29:14,538 - example_logger - INFO - key value [1]
+2020-07-13 10:38:26,272 - example_logger - INFO - key value []
+2020-07-13 10:38:26,272 - example_logger - INFO - key value []
+2020-07-13 10:38:26,272 - example_logger - INFO - key value []
+2020-07-13 10:38:26,272 - example_logger - INFO - key value []
+2020-07-13 10:38:26,272 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 10, in final_test
+    final_output['coref']= coreferece_resolution(text)
+  File "../src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "../src/helper_functions.py", line 124, in coreferece_resolution
+    if not dict_replacement[key[0]]:
+IndexError: list index out of range
+2020-07-13 10:38:26,272 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 10, in final_test
+    final_output['coref']= coreferece_resolution(text)
+  File "../src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "../src/helper_functions.py", line 124, in coreferece_resolution
+    if not dict_replacement[key[0]]:
+IndexError: list index out of range
+2020-07-13 10:38:26,272 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 10, in final_test
+    final_output['coref']= coreferece_resolution(text)
+  File "../src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "../src/helper_functions.py", line 124, in coreferece_resolution
+    if not dict_replacement[key[0]]:
+IndexError: list index out of range
+2020-07-13 10:38:26,272 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 10, in final_test
+    final_output['coref']= coreferece_resolution(text)
+  File "../src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "../src/helper_functions.py", line 124, in coreferece_resolution
+    if not dict_replacement[key[0]]:
+IndexError: list index out of range
+2020-07-13 10:38:43,415 - example_logger - INFO - reference info 5
+2020-07-13 10:38:43,415 - example_logger - INFO - reference info 5
+2020-07-13 10:38:43,416 - example_logger - INFO - key value [1]
+2020-07-13 10:38:43,416 - example_logger - INFO - key value [1]
+2020-07-13 10:38:46,383 - example_logger - INFO - key value []
+2020-07-13 10:38:46,383 - example_logger - INFO - key value []
+2020-07-13 10:38:46,383 - example_logger - INFO - key value []
+2020-07-13 10:38:46,386 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 10, in final_test
+    final_output['coref']= coreferece_resolution(text)
+  File "../src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "../src/helper_functions.py", line 124, in coreferece_resolution
+    if not dict_replacement[key[0]]:
+IndexError: list index out of range
+2020-07-13 10:38:46,386 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 10, in final_test
+    final_output['coref']= coreferece_resolution(text)
+  File "../src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "../src/helper_functions.py", line 124, in coreferece_resolution
+    if not dict_replacement[key[0]]:
+IndexError: list index out of range
+2020-07-13 10:38:46,386 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 10, in final_test
+    final_output['coref']= coreferece_resolution(text)
+  File "../src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "../src/helper_functions.py", line 124, in coreferece_resolution
+    if not dict_replacement[key[0]]:
+IndexError: list index out of range
+2020-07-13 10:40:09,067 - example_logger - INFO - key value []
+2020-07-13 10:40:09,067 - example_logger - INFO - key value []
+2020-07-13 10:40:09,068 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 10, in final_test
+    final_output['coref']= coreferece_resolution(text)
+  File "../src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "../src/helper_functions.py", line 124, in coreferece_resolution
+    if not dict_replacement[key[0]]:
+IndexError: list index out of range
+2020-07-13 10:40:09,068 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 10, in final_test
+    final_output['coref']= coreferece_resolution(text)
+  File "../src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "../src/helper_functions.py", line 124, in coreferece_resolution
+    if not dict_replacement[key[0]]:
+IndexError: list index out of range
+2020-07-13 10:47:26,538 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 10, in final_test
+    final_output['coref']= coreferece_resolution(text)
+  File "../src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "../src/helper_functions.py", line 100, in coreferece_resolution
+    if (len(data['corefs'] == 0)):
+TypeError: object of type 'bool' has no len()
+2020-07-13 10:47:26,538 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 10, in final_test
+    final_output['coref']= coreferece_resolution(text)
+  File "../src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "../src/helper_functions.py", line 100, in coreferece_resolution
+    if (len(data['corefs'] == 0)):
+TypeError: object of type 'bool' has no len()
+2020-07-13 10:49:33,155 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 10, in final_test
+    final_output['coref']= coreferece_resolution(text)
+  File "../src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "../src/helper_functions.py", line 100, in coreferece_resolution
+    if (len(data['corefs'] == 0)):
+TypeError: object of type 'bool' has no len()
+2020-07-13 10:49:33,155 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 10, in final_test
+    final_output['coref']= coreferece_resolution(text)
+  File "../src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "../src/helper_functions.py", line 100, in coreferece_resolution
+    if (len(data['corefs'] == 0)):
+TypeError: object of type 'bool' has no len()
+2020-07-13 10:53:30,185 - example_logger - INFO - key value []
+2020-07-13 10:53:30,185 - example_logger - INFO - key value []
+2020-07-13 10:53:30,186 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 10, in final_test
+    final_output['coref']= coreferece_resolution(text)
+  File "../src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "../src/helper_functions.py", line 127, in coreferece_resolution
+    if not dict_replacement[key[0]]:
+IndexError: list index out of range
+2020-07-13 10:53:30,186 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 10, in final_test
+    final_output['coref']= coreferece_resolution(text)
+  File "../src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "../src/helper_functions.py", line 127, in coreferece_resolution
+    if not dict_replacement[key[0]]:
+IndexError: list index out of range
+2020-07-13 10:54:02,735 - example_logger - INFO - key value []
+2020-07-13 10:54:02,735 - example_logger - INFO - key value []
+2020-07-13 10:54:02,736 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 10, in final_test
+    final_output['coref']= coreferece_resolution(text)
+  File "../src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "../src/helper_functions.py", line 127, in coreferece_resolution
+    if not dict_replacement[key[0]]:
+IndexError: list index out of range
+2020-07-13 10:54:02,736 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 10, in final_test
+    final_output['coref']= coreferece_resolution(text)
+  File "../src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "../src/helper_functions.py", line 127, in coreferece_resolution
+    if not dict_replacement[key[0]]:
+IndexError: list index out of range
+2020-07-13 10:54:36,783 - example_logger - INFO - key value []
+2020-07-13 10:54:36,783 - example_logger - INFO - key value []
+2020-07-13 10:54:36,784 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 10, in final_test
+    final_output['coref']= coreferece_resolution(text)
+  File "../src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "../src/helper_functions.py", line 127, in coreferece_resolution
+    if not dict_replacement[key[0]]:
+IndexError: list index out of range
+2020-07-13 10:54:36,784 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 10, in final_test
+    final_output['coref']= coreferece_resolution(text)
+  File "../src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "../src/helper_functions.py", line 127, in coreferece_resolution
+    if not dict_replacement[key[0]]:
+IndexError: list index out of range
+2020-07-13 10:58:13,681 - example_logger - INFO - key value []
+2020-07-13 10:58:13,681 - example_logger - INFO - key value []
+2020-07-13 10:58:13,681 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 10, in final_test
+    final_output['coref']= coreferece_resolution(text)
+  File "../src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "../src/helper_functions.py", line 127, in coreferece_resolution
+    if not dict_replacement[key[0]]:
+IndexError: list index out of range
+2020-07-13 10:58:13,681 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 10, in final_test
+    final_output['coref']= coreferece_resolution(text)
+  File "../src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "../src/helper_functions.py", line 127, in coreferece_resolution
+    if not dict_replacement[key[0]]:
+IndexError: list index out of range
+2020-07-13 10:59:51,051 - example_logger - INFO - key value []
+2020-07-13 10:59:51,134 - example_logger - INFO - key value []
+2020-07-13 10:59:51,134 - example_logger - INFO - key value []
+2020-07-13 16:29:55,202 - example_logger - INFO - key value []
+2020-07-13 11:09:12,673 - example_logger - INFO - key value []
+2020-07-13 11:09:12,673 - example_logger - INFO - key value []
+2020-07-13 11:09:12,673 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 10, in final_test
+    final_output['coref']= coreferece_resolution(text)
+  File "../src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "../src/helper_functions.py", line 128, in coreferece_resolution
+    if not dict_replacement[key[0]]:
+IndexError: list index out of range
+2020-07-13 11:09:12,673 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 10, in final_test
+    final_output['coref']= coreferece_resolution(text)
+  File "../src/util_functions.py", line 48, in wrapper_time
+    value = func(*args,**kwargs)
+  File "../src/helper_functions.py", line 128, in coreferece_resolution
+    if not dict_replacement[key[0]]:
+IndexError: list index out of range
+2020-07-13 11:40:15,176 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 12, in final_test
+    result= json.dumps(final_output)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'generator' is not JSON serializable
+2020-07-13 11:40:15,176 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 12, in final_test
+    result= json.dumps(final_output)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'generator' is not JSON serializable
+2020-07-13 11:40:15,176 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 12, in final_test
+    result= json.dumps(final_output)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'generator' is not JSON serializable
+2020-07-13 11:43:53,714 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 12, in final_test
+    result= json.dumps(final_output)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'generator' is not JSON serializable
+2020-07-13 11:43:53,714 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "../src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "../src/main.py", line 12, in final_test
+    result= json.dumps(final_output)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'generator' is not JSON serializable
+2020-07-13 17:13:56,176 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "/home/chandrakanth/context/coreference_resolution/src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "main.py", line 12, in final_test
+    result= json.dumps(final_output)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'generator' is not JSON serializable
+2020-07-13 17:13:56,176 - example_logger - ERROR - There was an exception in  final_test
+Traceback (most recent call last):
+  File "/home/chandrakanth/context/coreference_resolution/src/util_functions.py", line 31, in wrapper
+    return function(*args, **kwargs)
+  File "main.py", line 12, in final_test
+    result= json.dumps(final_output)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/chandrakanth/anaconda3/envs/sia_dev/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'generator' is not JSON serializable
+2020-07-14 13:21:49,456 - example_logger - INFO - exception occured 'nerConfidences'
+2020-07-14 13:21:49,456 - example_logger - INFO - exception occured 'nerConfidences'
+2020-07-14 13:21:49,456 - example_logger - INFO - exception occured 'nerConfidences'
+2020-07-14 13:21:49,456 - example_logger - INFO - exception occured 'nerConfidences'
+2020-07-14 13:22:59,522 - example_logger - INFO - exception occured 'nerConfidences'
+2020-07-14 13:22:59,522 - example_logger - INFO - exception occured 'nerConfidences'
+2020-07-14 13:22:59,522 - example_logger - INFO - exception occured 'nerConfidences'
+2020-07-14 13:25:41,804 - example_logger - INFO - reference info 18
+2020-07-14 13:25:41,804 - example_logger - INFO - reference info 18
+2020-07-14 13:25:41,804 - example_logger - INFO - reference info 18
+2020-07-14 13:25:41,806 - example_logger - INFO - reference info 23
+2020-07-14 13:25:41,806 - example_logger - INFO - reference info 23
+2020-07-14 13:25:41,806 - example_logger - INFO - reference info 23
+2020-07-14 13:25:41,806 - example_logger - INFO - reference info 27
+2020-07-14 13:25:41,806 - example_logger - INFO - reference info 27
+2020-07-14 13:25:41,806 - example_logger - INFO - reference info 27
+2020-07-14 13:25:41,807 - example_logger - INFO - reference info 12
+2020-07-14 13:25:41,807 - example_logger - INFO - reference info 12
+2020-07-14 13:25:41,807 - example_logger - INFO - reference info 12
+2020-07-14 13:25:41,807 - example_logger - INFO - key value []
+2020-07-14 13:25:41,807 - example_logger - INFO - key value []
+2020-07-14 13:25:41,807 - example_logger - INFO - key value []
+2020-07-14 13:25:41,807 - example_logger - INFO - exception occured list index out of range
+2020-07-14 13:25:41,807 - example_logger - INFO - exception occured list index out of range
+2020-07-14 13:25:41,807 - example_logger - INFO - exception occured list index out of range
+2020-07-14 18:56:35,269 - example_logger - INFO - reference info 18
+2020-07-14 18:56:35,270 - example_logger - INFO - reference info 23
+2020-07-14 18:56:35,270 - example_logger - INFO - reference info 27
+2020-07-14 18:56:35,270 - example_logger - INFO - reference info 12
+2020-07-14 18:56:35,270 - example_logger - INFO - key value []
+2020-07-14 19:00:26,194 - example_logger - INFO - reference info 18
+2020-07-14 19:00:26,194 - example_logger - INFO - reference info 23
+2020-07-14 19:00:26,194 - example_logger - INFO - reference info 27
+2020-07-14 19:00:26,194 - example_logger - INFO - reference info 12
+2020-07-14 19:00:26,194 - example_logger - INFO - key value []
+2020-07-14 19:04:32,281 - example_logger - INFO - reference info 18
+2020-07-14 19:04:32,282 - example_logger - INFO - reference info 23
+2020-07-14 19:04:32,282 - example_logger - INFO - reference info 27
+2020-07-14 19:04:32,282 - example_logger - INFO - reference info 12
+2020-07-14 19:04:32,282 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-14 13:36:05,080 - example_logger - INFO - reference info 18
+2020-07-14 13:36:05,080 - example_logger - INFO - reference info 18
+2020-07-14 13:36:05,080 - example_logger - INFO - reference info 18
+2020-07-14 13:36:05,081 - example_logger - INFO - reference info 23
+2020-07-14 13:36:05,081 - example_logger - INFO - reference info 23
+2020-07-14 13:36:05,081 - example_logger - INFO - reference info 23
+2020-07-14 13:36:05,081 - example_logger - INFO - reference info 27
+2020-07-14 13:36:05,081 - example_logger - INFO - reference info 27
+2020-07-14 13:36:05,081 - example_logger - INFO - reference info 27
+2020-07-14 13:36:05,081 - example_logger - INFO - reference info 12
+2020-07-14 13:36:05,081 - example_logger - INFO - reference info 12
+2020-07-14 13:36:05,081 - example_logger - INFO - reference info 12
+2020-07-14 13:36:05,081 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-14 13:36:05,081 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-14 13:36:05,081 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-14 13:40:40,679 - example_logger - INFO - reference info 18
+2020-07-14 13:40:40,679 - example_logger - INFO - reference info 18
+2020-07-14 13:40:40,679 - example_logger - INFO - reference info 18
+2020-07-14 13:40:40,680 - example_logger - INFO - reference info 23
+2020-07-14 13:40:40,680 - example_logger - INFO - reference info 23
+2020-07-14 13:40:40,680 - example_logger - INFO - reference info 23
+2020-07-14 13:40:40,680 - example_logger - INFO - reference info 27
+2020-07-14 13:40:40,680 - example_logger - INFO - reference info 27
+2020-07-14 13:40:40,680 - example_logger - INFO - reference info 27
+2020-07-14 13:40:40,680 - example_logger - INFO - reference info 12
+2020-07-14 13:40:40,680 - example_logger - INFO - reference info 12
+2020-07-14 13:40:40,680 - example_logger - INFO - reference info 12
+2020-07-14 13:40:40,680 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-14 13:40:40,680 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-14 13:40:40,680 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-14 13:43:09,227 - example_logger - INFO - reference info 18
+2020-07-14 13:43:09,227 - example_logger - INFO - reference info 18
+2020-07-14 13:43:09,227 - example_logger - INFO - reference info 18
+2020-07-14 13:43:09,228 - example_logger - INFO - reference info 23
+2020-07-14 13:43:09,228 - example_logger - INFO - reference info 23
+2020-07-14 13:43:09,228 - example_logger - INFO - reference info 23
+2020-07-14 13:43:09,228 - example_logger - INFO - reference info 27
+2020-07-14 13:43:09,228 - example_logger - INFO - reference info 27
+2020-07-14 13:43:09,228 - example_logger - INFO - reference info 27
+2020-07-14 13:43:09,228 - example_logger - INFO - reference info 12
+2020-07-14 13:43:09,228 - example_logger - INFO - reference info 12
+2020-07-14 13:43:09,228 - example_logger - INFO - reference info 12
+2020-07-14 13:43:09,228 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-14 13:43:09,228 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-14 13:43:09,228 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-14 19:17:52,633 - example_logger - INFO - reference info 5
+2020-07-14 19:17:52,633 - example_logger - INFO - key value [1]
+2020-07-15 04:17:26,176 - example_logger - INFO - reference info 18
+2020-07-15 04:17:26,176 - example_logger - INFO - reference info 18
+2020-07-15 04:17:26,176 - example_logger - INFO - reference info 18
+2020-07-15 04:17:26,343 - example_logger - INFO - reference info 23
+2020-07-15 04:17:26,343 - example_logger - INFO - reference info 23
+2020-07-15 04:17:26,343 - example_logger - INFO - reference info 23
+2020-07-15 04:17:26,343 - example_logger - INFO - reference info 27
+2020-07-15 04:17:26,343 - example_logger - INFO - reference info 27
+2020-07-15 04:17:26,343 - example_logger - INFO - reference info 27
+2020-07-15 04:17:26,343 - example_logger - INFO - reference info 12
+2020-07-15 04:17:26,343 - example_logger - INFO - reference info 12
+2020-07-15 04:17:26,343 - example_logger - INFO - reference info 12
+2020-07-15 04:17:26,343 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 04:17:26,343 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 04:17:26,343 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 04:24:05,077 - example_logger - INFO - reference info 18
+2020-07-15 04:24:05,077 - example_logger - INFO - reference info 18
+2020-07-15 04:24:05,077 - example_logger - INFO - reference info 18
+2020-07-15 04:24:05,077 - example_logger - INFO - reference info 23
+2020-07-15 04:24:05,077 - example_logger - INFO - reference info 23
+2020-07-15 04:24:05,077 - example_logger - INFO - reference info 23
+2020-07-15 04:24:05,078 - example_logger - INFO - reference info 27
+2020-07-15 04:24:05,078 - example_logger - INFO - reference info 27
+2020-07-15 04:24:05,078 - example_logger - INFO - reference info 27
+2020-07-15 04:24:05,078 - example_logger - INFO - reference info 12
+2020-07-15 04:24:05,078 - example_logger - INFO - reference info 12
+2020-07-15 04:24:05,078 - example_logger - INFO - reference info 12
+2020-07-15 04:24:05,078 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 04:24:05,078 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 04:24:05,078 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 10:01:05,919 - example_logger - INFO - reference info 5
+2020-07-15 10:01:05,919 - example_logger - INFO - key value [1]
+2020-07-15 10:05:35,928 - example_logger - INFO - reference info 5
+2020-07-15 10:05:35,928 - example_logger - INFO - key value [1]
+2020-07-15 10:09:19,431 - example_logger - INFO - reference info 5
+2020-07-15 10:09:19,431 - example_logger - INFO - key value [1]
+2020-07-15 10:10:27,843 - example_logger - INFO - reference info 5
+2020-07-15 10:10:27,843 - example_logger - INFO - key value [1]
+2020-07-15 10:11:22,634 - example_logger - INFO - reference info 5
+2020-07-15 10:11:22,634 - example_logger - INFO - key value [1]
+2020-07-15 10:11:22,697 - example_logger - INFO - reference info 5
+2020-07-15 10:11:22,697 - example_logger - INFO - key value [1]
+2020-07-15 10:11:54,422 - example_logger - INFO - reference info 5
+2020-07-15 10:11:54,423 - example_logger - INFO - key value [1]
+2020-07-15 10:11:54,487 - example_logger - INFO - reference info 5
+2020-07-15 10:11:54,487 - example_logger - INFO - key value [1]
+2020-07-15 10:12:29,608 - example_logger - INFO - reference info 5
+2020-07-15 10:12:29,608 - example_logger - INFO - key value [1]
+2020-07-15 10:12:29,673 - example_logger - INFO - reference info 5
+2020-07-15 10:12:29,673 - example_logger - INFO - key value [1]
+2020-07-15 10:13:36,313 - example_logger - INFO - reference info 5
+2020-07-15 10:13:36,313 - example_logger - INFO - key value [1]
+2020-07-15 10:13:36,378 - example_logger - INFO - reference info 5
+2020-07-15 10:13:36,378 - example_logger - INFO - key value [1]
+2020-07-15 06:36:51,037 - example_logger - INFO - reference info 18
+2020-07-15 06:36:51,037 - example_logger - INFO - reference info 18
+2020-07-15 06:36:51,037 - example_logger - INFO - reference info 18
+2020-07-15 06:36:51,039 - example_logger - INFO - reference info 23
+2020-07-15 06:36:51,039 - example_logger - INFO - reference info 23
+2020-07-15 06:36:51,039 - example_logger - INFO - reference info 23
+2020-07-15 06:36:51,039 - example_logger - INFO - reference info 27
+2020-07-15 06:36:51,039 - example_logger - INFO - reference info 27
+2020-07-15 06:36:51,039 - example_logger - INFO - reference info 27
+2020-07-15 06:36:51,039 - example_logger - INFO - reference info 12
+2020-07-15 06:36:51,039 - example_logger - INFO - reference info 12
+2020-07-15 06:36:51,039 - example_logger - INFO - reference info 12
+2020-07-15 06:36:51,039 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 06:36:51,039 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 06:36:51,039 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 06:37:28,467 - example_logger - INFO - reference info 18
+2020-07-15 06:37:28,467 - example_logger - INFO - reference info 18
+2020-07-15 06:37:28,467 - example_logger - INFO - reference info 18
+2020-07-15 06:37:28,467 - example_logger - INFO - reference info 18
+2020-07-15 06:37:28,468 - example_logger - INFO - reference info 23
+2020-07-15 06:37:28,468 - example_logger - INFO - reference info 23
+2020-07-15 06:37:28,468 - example_logger - INFO - reference info 23
+2020-07-15 06:37:28,468 - example_logger - INFO - reference info 23
+2020-07-15 06:37:28,468 - example_logger - INFO - reference info 27
+2020-07-15 06:37:28,468 - example_logger - INFO - reference info 27
+2020-07-15 06:37:28,468 - example_logger - INFO - reference info 27
+2020-07-15 06:37:28,468 - example_logger - INFO - reference info 27
+2020-07-15 06:37:28,468 - example_logger - INFO - reference info 12
+2020-07-15 06:37:28,468 - example_logger - INFO - reference info 12
+2020-07-15 06:37:28,468 - example_logger - INFO - reference info 12
+2020-07-15 06:37:28,468 - example_logger - INFO - reference info 12
+2020-07-15 06:37:28,469 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 06:37:28,469 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 06:37:28,469 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 06:37:28,469 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 06:41:29,771 - example_logger - INFO - reference info 18
+2020-07-15 06:41:29,771 - example_logger - INFO - reference info 18
+2020-07-15 06:41:29,771 - example_logger - INFO - reference info 18
+2020-07-15 06:41:29,773 - example_logger - INFO - reference info 23
+2020-07-15 06:41:29,773 - example_logger - INFO - reference info 23
+2020-07-15 06:41:29,773 - example_logger - INFO - reference info 23
+2020-07-15 06:41:29,773 - example_logger - INFO - reference info 27
+2020-07-15 06:41:29,773 - example_logger - INFO - reference info 27
+2020-07-15 06:41:29,773 - example_logger - INFO - reference info 27
+2020-07-15 06:41:29,773 - example_logger - INFO - reference info 12
+2020-07-15 06:41:29,773 - example_logger - INFO - reference info 12
+2020-07-15 06:41:29,773 - example_logger - INFO - reference info 12
+2020-07-15 06:41:29,774 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 06:41:29,774 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 06:41:29,774 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 06:53:32,704 - example_logger - INFO - reference info 18
+2020-07-15 06:53:32,704 - example_logger - INFO - reference info 18
+2020-07-15 06:53:32,704 - example_logger - INFO - reference info 18
+2020-07-15 06:53:32,706 - example_logger - INFO - reference info 23
+2020-07-15 06:53:32,706 - example_logger - INFO - reference info 23
+2020-07-15 06:53:32,706 - example_logger - INFO - reference info 23
+2020-07-15 06:53:32,706 - example_logger - INFO - reference info 27
+2020-07-15 06:53:32,706 - example_logger - INFO - reference info 27
+2020-07-15 06:53:32,706 - example_logger - INFO - reference info 27
+2020-07-15 06:53:32,706 - example_logger - INFO - reference info 12
+2020-07-15 06:53:32,706 - example_logger - INFO - reference info 12
+2020-07-15 06:53:32,706 - example_logger - INFO - reference info 12
+2020-07-15 06:53:32,707 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 06:53:32,707 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 06:53:32,707 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 06:55:06,304 - example_logger - INFO - reference info 18
+2020-07-15 06:55:06,304 - example_logger - INFO - reference info 18
+2020-07-15 06:55:06,304 - example_logger - INFO - reference info 18
+2020-07-15 06:55:06,306 - example_logger - INFO - reference info 23
+2020-07-15 06:55:06,306 - example_logger - INFO - reference info 23
+2020-07-15 06:55:06,306 - example_logger - INFO - reference info 23
+2020-07-15 06:55:06,306 - example_logger - INFO - reference info 27
+2020-07-15 06:55:06,306 - example_logger - INFO - reference info 27
+2020-07-15 06:55:06,306 - example_logger - INFO - reference info 27
+2020-07-15 06:55:06,306 - example_logger - INFO - reference info 12
+2020-07-15 06:55:06,306 - example_logger - INFO - reference info 12
+2020-07-15 06:55:06,306 - example_logger - INFO - reference info 12
+2020-07-15 06:55:06,307 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 06:55:06,307 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 06:55:06,307 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 06:58:37,676 - example_logger - INFO - reference info 18
+2020-07-15 06:58:37,676 - example_logger - INFO - reference info 18
+2020-07-15 06:58:37,676 - example_logger - INFO - reference info 18
+2020-07-15 06:58:37,678 - example_logger - INFO - reference info 23
+2020-07-15 06:58:37,678 - example_logger - INFO - reference info 23
+2020-07-15 06:58:37,678 - example_logger - INFO - reference info 23
+2020-07-15 06:58:37,678 - example_logger - INFO - reference info 27
+2020-07-15 06:58:37,678 - example_logger - INFO - reference info 27
+2020-07-15 06:58:37,678 - example_logger - INFO - reference info 27
+2020-07-15 06:58:37,678 - example_logger - INFO - reference info 12
+2020-07-15 06:58:37,678 - example_logger - INFO - reference info 12
+2020-07-15 06:58:37,678 - example_logger - INFO - reference info 12
+2020-07-15 06:58:37,678 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 06:58:37,678 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 06:58:37,678 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 06:58:37,679 - example_logger - INFO - exception occured Object of type 'set' is not JSON serializable
+2020-07-15 06:58:37,679 - example_logger - INFO - exception occured Object of type 'set' is not JSON serializable
+2020-07-15 06:58:37,679 - example_logger - INFO - exception occured Object of type 'set' is not JSON serializable
+2020-07-15 07:08:00,815 - example_logger - INFO - reference info 18
+2020-07-15 07:08:00,815 - example_logger - INFO - reference info 18
+2020-07-15 07:08:00,815 - example_logger - INFO - reference info 18
+2020-07-15 07:08:00,817 - example_logger - INFO - reference info 23
+2020-07-15 07:08:00,817 - example_logger - INFO - reference info 23
+2020-07-15 07:08:00,817 - example_logger - INFO - reference info 23
+2020-07-15 07:08:00,817 - example_logger - INFO - reference info 27
+2020-07-15 07:08:00,817 - example_logger - INFO - reference info 27
+2020-07-15 07:08:00,817 - example_logger - INFO - reference info 27
+2020-07-15 07:08:00,817 - example_logger - INFO - reference info 12
+2020-07-15 07:08:00,817 - example_logger - INFO - reference info 12
+2020-07-15 07:08:00,817 - example_logger - INFO - reference info 12
+2020-07-15 07:08:00,817 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 07:08:00,817 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 07:08:00,817 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 07:08:56,259 - example_logger - INFO - reference info 18
+2020-07-15 07:08:56,259 - example_logger - INFO - reference info 18
+2020-07-15 07:08:56,259 - example_logger - INFO - reference info 18
+2020-07-15 07:08:56,261 - example_logger - INFO - reference info 23
+2020-07-15 07:08:56,261 - example_logger - INFO - reference info 23
+2020-07-15 07:08:56,261 - example_logger - INFO - reference info 23
+2020-07-15 07:08:56,261 - example_logger - INFO - reference info 27
+2020-07-15 07:08:56,261 - example_logger - INFO - reference info 27
+2020-07-15 07:08:56,261 - example_logger - INFO - reference info 27
+2020-07-15 07:08:56,261 - example_logger - INFO - reference info 12
+2020-07-15 07:08:56,261 - example_logger - INFO - reference info 12
+2020-07-15 07:08:56,261 - example_logger - INFO - reference info 12
+2020-07-15 07:08:56,262 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 07:08:56,262 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 07:08:56,262 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 07:22:09,736 - example_logger - INFO - reference info 18
+2020-07-15 07:22:09,736 - example_logger - INFO - reference info 18
+2020-07-15 07:22:09,736 - example_logger - INFO - reference info 18
+2020-07-15 07:22:09,737 - example_logger - INFO - reference info 23
+2020-07-15 07:22:09,737 - example_logger - INFO - reference info 23
+2020-07-15 07:22:09,737 - example_logger - INFO - reference info 23
+2020-07-15 07:22:09,738 - example_logger - INFO - reference info 27
+2020-07-15 07:22:09,738 - example_logger - INFO - reference info 27
+2020-07-15 07:22:09,738 - example_logger - INFO - reference info 27
+2020-07-15 07:22:09,738 - example_logger - INFO - reference info 12
+2020-07-15 07:22:09,738 - example_logger - INFO - reference info 12
+2020-07-15 07:22:09,738 - example_logger - INFO - reference info 12
+2020-07-15 07:22:09,738 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 07:22:09,738 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 07:22:09,738 - example_logger - INFO - key value [2, 3, 4, 6]
+2020-07-15 07:26:33,391 - example_logger - INFO - no coreference to resolve
+2020-07-15 07:26:33,391 - example_logger - INFO - no coreference to resolve
+2020-07-15 07:26:33,391 - example_logger - INFO - no coreference to resolve
+2020-07-15 07:26:33,391 - example_logger - INFO - no coreference to resolve

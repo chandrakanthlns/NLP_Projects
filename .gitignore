@@ -2,3 +2,6 @@ __pycache__/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+#logs
+**logs/*.log
