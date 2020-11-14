@@ -1,7 +1,13 @@
 
 import numpy as np
-
+from os import path, makedirs
 import zipfile
+
+ZIP_FOLDER = './data'
+if not path.exists(ZIP_FOLDER):
+    makedirs(ZIP_FOLDER, exist_ok=True)
+
+
 with zipfile.ZipFile('./sentiment_analysis_dataset.zip', 'r') as zip_ref:
     zip_ref.extractall('./data/')
 
