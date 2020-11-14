@@ -1,17 +1,19 @@
 
 import numpy as np
 
-with open('./data/reviews.txt' , 'r') as f:
+import zipfile
+with zipfile.ZipFile('./sentiment_analysis_dataset.zip', 'r') as zip_ref:
+    zip_ref.extractall('./data/')
+
+with open('./data/sentiment_analysis_dataset/reviews.txt' , 'r') as f:
     reviews = f.read()
     
-with open('./data/labels.txt', 'r') as f:
+with open('./data/sentiment_analysis_dataset/labels.txt', 'r') as f:
     labels = f.read()
 
 
 print(reviews[:1000])
 print(labels[:20])
-
-
 
 
 
